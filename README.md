@@ -1,3 +1,3 @@
 # hello-world
-My first repository on Github
-Learning to get faimilar with Github's environment. 
+My first repository on Github,
+learning to get familar with Github's environment. 
